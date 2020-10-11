@@ -4,15 +4,7 @@ An AI that controls a spaceship and dodges incoming asteroids using a genetic al
 Download all files in the repository and run asteroid_simulator.py to start simulation.
 
 ## Required Python Modules:
-Pygame
-
-NEAT
-
-Matplotlib
-
-NumPy
-
-Graphviz
+Pygame, NEAT, Matplotlib, NumPy, Graphviz
 
 ![Screenshot](image1.png)
 
