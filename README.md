@@ -6,6 +6,8 @@ Download all files in the repository and run asteroid_simulator.py to start simu
 ## Required Python Modules:
 Pygame, NEAT, Matplotlib, NumPy, Graphviz
 
+## Simulation:
+
 ![Screenshot](image1.png)
 
 ## Simulation Mechanics:
