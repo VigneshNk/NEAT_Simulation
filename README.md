@@ -1,4 +1,4 @@
-# Asteroid_Simulation_AI
+# NEAT_Simulation
 An AI that controls a spaceship and dodges incoming asteroids using a genetic algorithm that creates a neural network.
 
 Download all files in the repository and run asteroid_simulator.py to start simulation.
