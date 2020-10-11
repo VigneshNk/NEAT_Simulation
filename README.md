@@ -8,7 +8,7 @@ Pygame, NEAT, Matplotlib, NumPy, Graphviz
 
 ## Simulation:
 
-![Screenshot](image1.png)
+![Screenshot](simulation_image1.png)
 
 ## Simulation Mechanics:
      - Asteroids are spawned on to screen at random positions
@@ -19,4 +19,4 @@ Pygame, NEAT, Matplotlib, NumPy, Graphviz
      
      - Spaceship attempts to stay in between 2 closest asteroids so it can pass through
 
-![Screenshot](image2.png)
+![Screenshot](simulation_image2.png)
